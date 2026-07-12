@@ -1,6 +1,8 @@
-# Competitors
+# Ryu Punch Competitors
 
 ## Direct Competitors
+
+These companies compete with Ryu Punch for similar clients and services.
 
 - ARIB
 - GrowthOps
@@ -13,24 +15,34 @@
 
 ## Indirect Competitors
 
+These companies may compete for some projects but are not always direct competitors.
+
 - Branding Agencies
 - Creative Agencies
 - Performance Marketing Agencies
-- Digital Agencies
+- Digital Marketing Agencies
 - Product Design Studios
-- Software Companies with Marketing Services
+- Web Development Companies with Marketing Services
 
 ---
 
-# Competitor Detection Rule
+# Competitor Detection Rules
 
-If the company primarily sells:
+The AI should classify a company as a competitor if:
 
-- Branding
-- Marketing
-- SEO
-- Advertising
-- Creative Services
-- Performance Marketing
+- Its primary business is marketing services.
+- It provides branding services.
+- It offers SEO or performance marketing as its core business.
+- It sells digital marketing solutions similar to Ryu Punch.
+- It targets startups, scale-ups, or technology companies with similar services.
 
-then classify the company as a competitor and do not qualify it as a lead.
+These companies should not be added to the lead database.
+
+---
+
+# Approved Direct Competitors
+
+This list has been reviewed and approved by Ryu Punch management.
+
+Version: 1.0
+Status: Approved
