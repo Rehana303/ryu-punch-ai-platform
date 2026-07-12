@@ -70,3 +70,13 @@ Ideal companies usually have one or more of the following:
 # Business Goal
 
 Help companies grow faster through better strategy, branding, marketing, websites, SaaS products, AI automation, and analytics.
+
+## Testimonials
+
+Currently, no public client testimonials or case studies are available on the website.
+
+Recommendation:
+- Add client testimonials
+- Publish case studies
+- Showcase measurable business results
+- Display client logos (with permission)
