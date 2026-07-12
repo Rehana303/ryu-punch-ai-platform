@@ -9,3 +9,19 @@ Growth Partner
 ## Target Regions
 - Singapore
 - Dubai
+
+## Target Customers
+- Startups
+- Scale-ups
+- Technology companies
+
+## Preferred Company Size
+- 50–300 employees
+
+## Industries
+- AI
+- SaaS
+- FinTech
+- HealthTech
+- HRTech
+- Cybersecurity
